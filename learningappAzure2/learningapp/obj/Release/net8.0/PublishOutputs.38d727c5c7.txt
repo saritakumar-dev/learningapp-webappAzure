@@ -1,0 +1,7 @@
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\learningapp.exe
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\appsettings.Development.json
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\appsettings.json
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\learningapp.dll
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\learningapp.deps.json
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\learningapp.runtimeconfig.json
+C:\Users\Sarita\source\repos\learningappAzure2\bin\publish\learningapp.pdb
